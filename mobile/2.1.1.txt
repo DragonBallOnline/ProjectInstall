@@ -1,4 +1,1 @@
-<!--Dữ Liệu V2.1.1 > 300-->
-<!--Để hiển thị popup dùng text < 300-->
-<!--Không hiển thị popup dùng text = 300-->
 222
