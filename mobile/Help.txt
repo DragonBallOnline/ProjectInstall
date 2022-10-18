@@ -1,0 +1,3 @@
+<!--Dữ Liệu /2.1.1.txt  Đang dùng 300-->
+<!--Để hiển thị popup dùng text < 300-->
+<!--Không hiển thị popup dùng text = 300-->
